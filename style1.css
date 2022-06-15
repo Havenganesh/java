@@ -1,0 +1,27 @@
+div{
+    border: 25px bisque solid;
+    max-width: 500px;
+    max-height: 500px;
+    background-color: chartreuse;
+    margin: 1px;
+    text-align: center;
+
+}
+.hi{
+    position: fixed;
+    top: 0%;
+    right: 0%;
+    max-width: 500px;
+    max-height: 500px;
+    background-color: rgb(255, 0, 149);
+    margin: 1px;
+    text-align: center;
+
+}
+h1 {
+    letter-spacing: 5px;
+    }
+    p {
+    line-height: 1.9;
+    visibility: hidden;
+    }
